@@ -13,5 +13,5 @@
 
 > **Using Skills**
 > > Web Server - Firebase   
-> > Android App - Java    
+> > Android App - Kotlin    
 > > Client Web Page - HTML, CSS, JavaScript    
